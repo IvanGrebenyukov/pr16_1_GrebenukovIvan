@@ -1,0 +1,54 @@
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.exe
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.deps.json
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.runtimeconfig.json
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.runtimeconfig.dev.json
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.dll
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.pdb
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.csproj.AssemblyReference.cache
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.Form1.resources
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.csproj.GenerateResource.cache
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.AssemblyInfoInputs.cache
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.AssemblyInfo.cs
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.csproj.CoreCompileInputs.cache
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.dll
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\refint\Zad2.dll
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.pdb
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.genruntimeconfig.cache
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\ref\Zad2.dll
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.exe
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.deps.json
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.runtimeconfig.json
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.runtimeconfig.dev.json
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.dll
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\ref\Zad2.dll
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.pdb
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.csproj.AssemblyReference.cache
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.Form1.resources
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.csproj.GenerateResource.cache
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.AssemblyInfoInputs.cache
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.AssemblyInfo.cs
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.csproj.CoreCompileInputs.cache
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.dll
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\ref\Zad2.dll
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.pdb
+D:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.genruntimeconfig.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.exe
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.deps.json
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.runtimeconfig.json
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.runtimeconfig.dev.json
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\bin\Debug\net5.0-windows\Zad2.pdb
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.csproj.AssemblyReference.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.Form1.resources
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.csproj.GenerateResource.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.AssemblyInfoInputs.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.AssemblyInfo.cs
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.csproj.CoreCompileInputs.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\refint\Zad2.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.pdb
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\Zad2.genruntimeconfig.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_Алгоритмизации_Флешка\Practice16_Grebenukov\Zad2\Zad2\obj\Debug\net5.0-windows\ref\Zad2.dll

@@ -1,0 +1,16 @@
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\bin\Debug\net5.0\Zad1.exe
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\bin\Debug\net5.0\Zad1.deps.json
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\bin\Debug\net5.0\Zad1.runtimeconfig.json
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\bin\Debug\net5.0\Zad1.runtimeconfig.dev.json
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\bin\Debug\net5.0\Zad1.dll
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\bin\Debug\net5.0\Zad1.pdb
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\obj\Debug\net5.0\Zad1.csproj.AssemblyReference.cache
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\obj\Debug\net5.0\Zad1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\obj\Debug\net5.0\Zad1.AssemblyInfoInputs.cache
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\obj\Debug\net5.0\Zad1.AssemblyInfo.cs
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\obj\Debug\net5.0\Zad1.csproj.CoreCompileInputs.cache
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\obj\Debug\net5.0\Zad1.dll
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\obj\Debug\net5.0\refint\Zad1.dll
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\obj\Debug\net5.0\Zad1.pdb
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\obj\Debug\net5.0\Zad1.genruntimeconfig.cache
+H:\Основы_Алгоритмизации\Practice16_Grebenukov\Zad1\Zad1\obj\Debug\net5.0\ref\Zad1.dll
